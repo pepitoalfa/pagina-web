@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: center;
+}
+img{
+    align-items:  center;
+    justify-content: center;
+}
+.caja1{
+    background-color: red;
+    width: 500px;
+    height: 500px;}
+.caja1 img{
+width: 250px;
+height: 250px;}
+
+

@@ -1,0 +1,39 @@
+h1{text-align: center;}
+.boton {
+    border: 1px solid #c5067c; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #2a9fae; /*color botón*/
+    color: #000000; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 20px; /*bordes redondos*/
+    }
+h2{text-align: center;}
+
+/*img{align-items: center;display: flex;justify-content: center;background: cornflowerblue;padding: 20px;}*/
+.caja1{background-color: seashell;width: 1200px;}
+.caja2{background-color: seashell;width: 1200px;}
+.caja4{background-color: seashell;width: 1200px;}
+.Center{align-items: center;}
+body{background-color: rgb(102, 117, 167);
+  }
+.nav¨{background: #c5067c(232, 190, 112);
+border-radius: 10px ;
+ border: 3px solid color gray;
+ height: 20px; }
+.nav, a{text-decoration: none; text-align: center;}
+.cajalateral{
+  height: 100px;
+  width: 30%;
+  margin-left: 15px;
+  float:right ;
+  padding-left: 15px;
+}
+.textolateral{
+  text-align: center;
+  background-color: #c5067c;
+}
+p{
+  text-align: center;
+}
